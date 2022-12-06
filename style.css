@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto auto;
+    width: 900px;
+}
+
+canvas { border: 1px solid black; }
